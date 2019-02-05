@@ -12,13 +12,13 @@ A Collection of not so sexy notebooks of mine, mostly on Deep Learning.
 
 ## Old/Misc 
 
-1. Object Detection with Tensorflow. [Notebook](https://github.com/taesiri/noteobooks/blob/master/object-detection/object_detection_virtual_camera.ipynb)
-1. Approximating a Black Box function using Feed Forward network. [Notebook](https://github.com/taesiri/noteobooks/tree/master/misc/universal%20approximation)
-1. Most stupid way to check for pPlanar property of a Graph. [Notebook](https://github.com/taesiri/noteobooks/blob/master/graph_analysis/check_planarity.ipynb)
-1. YoutubeGUN, or how to extract random frames on the fly. [Notebook](https://github.com/taesiri/noteobooks/blob/master/frame-extractor/youtube-gun.ipynb)
+1. Object Detection with Tensorflow. [Notebook](https://github.com/taesiri/noteobooks/blob/master/old:misc/object-detection/object_detection_virtual_camera.ipynb)
+1. Approximating a Black Box function using Feed Forward network. [Notebook](https://github.com/taesiri/noteobooks/blob/master/old:misc/universal%20approximation/feedforward_1d.ipynb)
+1. The most stupid way to check for pPlanar property of a Graph. [Notebook](https://github.com/taesiri/noteobooks/blob/master/old:misc/graph_analysis/check_planarity.ipynb)
+1. YoutubeGUN, or how to extract random frames on the fly. [Notebook](https://github.com/taesiri/noteobooks/blob/master/old:misc/frame-extractor/youtube-gun.ipynb)
 
 ### Images!
 If you are looking for some images; here you are:
 
 ![REINFORCE Brain Visualization](https://raw.githubusercontent.com/taesiri/noteobooks/master/rl/reinforce/PolicyChange.gif)
-![](https://raw.githubusercontent.com/taesiri/noteobooks/master/misc/universal%20approximation/demo.gif)
+![Approximation](https://raw.githubusercontent.com/taesiri/noteobooks/master/old%3Amisc/universal%20approximation/demo.gif)
