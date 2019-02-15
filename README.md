@@ -6,6 +6,7 @@ A Collection of not so sexy notebooks of mine, mostly on Deep Learning.
 
 1. DeepLab Segmentation Analysis. [Notebook](https://github.com/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/Segmentation_with_DeepLab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/Segmentation_with_DeepLab.ipynb)
 1. DeepLab Face Analysis. [Notebook](https://github.com/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/FaceAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/FaceAnalysis.ipynb)
+1. DeepLab Rorschach Test. [Notebook](https://github.com/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/Rorschach_Test.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taesiri/noteobooks/blob/master/nn-analysis/image-segmentation/Rorschach_Test.ipynb)
 
 ## Reinforcement Learning
 1. REINFORCE - [Main Notebook](https://github.com/taesiri/noteobooks/blob/master/rl/reinforce/1.%20REINFORCE.ipynb), [Visualization](https://github.com/taesiri/noteobooks/blob/master/rl/reinforce/2.%20Charts.ipynb)
